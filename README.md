@@ -37,7 +37,7 @@ Collect data from all nodes in remote cluster:
 ./collect.sh host1 host2 host3 [host...]
 ```
 
-./output/$DATE/$HOST/ will contain CSV and collected raw data from:
+./output/$DATE/$HOST/ will contain CSV, TSV and collected raw data from:
 
 * Apache
 * Socorro
