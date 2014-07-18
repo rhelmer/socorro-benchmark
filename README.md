@@ -3,7 +3,7 @@ Intro
 This is a small repo to hold tools related to benchmarking Socorro.
 
 Right now it uses the Apache Benchmark (ab), dstat, and
-Socorro's build-in BenchmarkCrashStorage wrapper.
+Socorro's built-in BenchmarkCrashStorage wrapper.
 
 Set up test file
 ----------------
